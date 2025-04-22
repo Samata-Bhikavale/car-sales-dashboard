@@ -28,6 +28,10 @@ This repository contains a **Car Sales Dashboard** built in **Tableau**, offerin
 | Region Filter                         | Allows selection of dealer regions to explore regional trends    |
 | Company Filter                        | Filters visuals by selected manufacturers                        |
 
+## 🔗 Live Dashboard
+
+👉 [View the Car Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/sam.bhikavale/viz/CarSalesDashboard_17453188106660/Dashboard2)  
+
 ## 🚀 Getting Started
 
 1. Download or clone the repository.
